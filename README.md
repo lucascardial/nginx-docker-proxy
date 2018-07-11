@@ -12,7 +12,7 @@ run docker-compose up -d in clonned folder
 
 ### Step 3 ###
 
-Define yours VIRTUAL_HOST on docker-compose.yml of your projects, link this:
+Define yours VIRTUAL_HOST on docker-compose.yml of your projects, like this:
 
 ```
 services:
